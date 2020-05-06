@@ -1,4 +1,4 @@
-options = [{
+options = {
     backgroundColor:'#FFFFFF',
     title: {
         //text: '检查企业信息分析'
@@ -93,5 +93,4 @@ options = [{
         },
         data: [787, 571, 999, 341, 231,812, 735, 231,322,712,1230, 870]
     }]
-}
-];
+};
